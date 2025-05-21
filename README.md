@@ -82,16 +82,12 @@ npm start
 | ------------------------------------- | ------------------------------------- |
 | ![MongoDB1](https://i.postimg.cc/zvQQS4Hs/Screenshot-2025-05-21-230231.png) | ![MongoDB2](https://i.postimg.cc/3NGq1njW/Screenshot-2025-05-21-230238.png) |
 
-> ℹ️ Place actual screenshot files inside a `/screenshots` folder with the names shown above.
-
+ 
 ---
 
 ## 📄 License
 
 MIT License
 
-```
-
----
 
  
